@@ -1,6 +1,5 @@
-### Hello, there! 👋
+### Opa! 👋
 
-
-- 🔭 I’m currently working at Meu Personal Digital
-- 🌱 I’m currently learning about how to use APIs
-- 📫 How to reach me: michhelgalenoo@gmail.com
+- ☁️ Analista Cloud na BW Soluções;
+- 🖥️ Estudando sobre AWS, AI, Python e JavasScript;
+- 📫 Contato: michhel_galenoo@hotmail.com
